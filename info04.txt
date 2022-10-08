@@ -1,0 +1,1 @@
+Ga naar de aangemaakte directory (GitRepo001) en initialiseer de repository.Er zal een verborgen folder aangemaakt worden, waar Git alle administratie bijhoudt
